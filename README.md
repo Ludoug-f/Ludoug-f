@@ -33,10 +33,13 @@ Sempre gostei de computadores e tecnologia no geral, tinha curiosidade sobre com
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)
 
 ---
+## Portifólio
+[![Portfolio](https://img.shields.io/badge/portfolio-161637?style=for-the-badge&logo=polkadot&logoColor=00e5ff)](https://ludoug-f.github.io/)
+
+---
 <br/>
 
 ![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ludoug-f&hide=dockerfile&theme=github_dark&layout=compact)
-
 ![Luciano_Freitas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ludoug-f&theme=github_dark&show_icons=true&count_private=true&hide=contribs,issues)
 
 ---
@@ -44,7 +47,6 @@ Sempre gostei de computadores e tecnologia no geral, tinha curiosidade sobre com
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciano-f/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucianofreitasngc@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ludoug_/)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ludoug-f)
 
 <!--
 CREDITOS
