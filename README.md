@@ -39,9 +39,11 @@ Sempre gostei de computadores e tecnologia no geral, tinha curiosidade sobre com
 ---
 <br/>
 
-![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ludoug-f&hide=dockerfile&theme=github_dark&layout=compact)
+<div align="center">
 
-![Luciano_Freitas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ludoug-f&theme=github_dark&show_icons=true&count_private=true&hide=contribs,issues)
+![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ludoug-f&hide=dockerfile&theme=github_dark&layout=compact)‎ ‎ ‎ ‎ ![Luciano_Freitas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ludoug-f&theme=github_dark&show_icons=true&count_private=true&hide=contribs,issues)
+
+</div>
 
 ---
 ## Me encontre por aqui 🌎
