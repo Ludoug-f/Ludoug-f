@@ -2,12 +2,10 @@
 
 Um estudante de programação em busca de desafios, procurando sempre aprender e compartilhar conhecimento.
 
----
 ## Sobre mim
 
 Sempre gostei de computadores e tecnologia no geral, tinha curiosidade sobre como funcionavam as coisas mas nunca tinha pensado em trabalhar com isso. Até que um dia, um amigo me convidou pra participar de um projeto de um app, e foi ai que tudo começou. Participei de um Hackathon, e foi uma experiencia incrivel, entao resolvi me matricular na [Trybe](https://www.betrybe.com/) e ingressar na carreira de desenvolvimento de software.
 
----
 ## Tecnologias
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -26,11 +24,9 @@ Sempre gostei de computadores e tecnologia no geral, tinha curiosidade sobre com
 ![chai](https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)
 
----
 ## Portifólio
 [![Portfolio](https://img.shields.io/badge/portfolio-161637?style=for-the-badge&logo=polkadot&logoColor=00e5ff)](https://ludoug-f.github.io/)
 
----
 <br/>
 
 <div align="center">
@@ -39,7 +35,6 @@ Sempre gostei de computadores e tecnologia no geral, tinha curiosidade sobre com
 
 </div>
 
----
 ## Me encontre por aqui 🌎
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciano-f/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucianofreitasngc@gmail.com)
