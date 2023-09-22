@@ -25,7 +25,7 @@ Sempre gostei de computadores e tecnologia no geral, tinha curiosidade sobre com
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)
 
 ## Portifólio
-[![Portfolio](https://img.shields.io/badge/portfolio-161637?style=for-the-badge&logo=polkadot&logoColor=00e5ff)](https://ludoug-f.github.io/)
+[![Portfolio](https://img.shields.io/badge/portfolio-161637?style=for-the-badge&logo=polkadot&logoColor=00e5ff)](https://ludoug-f.github.io/){:target="_blank"}
 
 <br/>
 
